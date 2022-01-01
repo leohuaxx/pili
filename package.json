@@ -1,0 +1,22 @@
+{
+  "name": "pili",
+  "version": "0.0.1",
+  "description": "web experiments",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leohuaxx/pili.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "leohuaxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leohuaxx/pili/issues"
+  },
+  "homepage": "https://github.com/leohuaxx/pili#readme"
+}
